@@ -29,21 +29,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Style Guidelines
 
+Project uses [Bulma](https://bulma.io/) CSS Framework 
+
 Let's stick with these colors:
 
 Colors:
-<span style="color: #00CCE9">#00CCE9</span>
-<span style="color: #0CA4ED">#0CA4ED</span>
-<span style="color: #215EF5">#215EF5</span>
-<span style="color: #302BFA">#302BFA</span>
-<span style="color: #390CFE">#390CFE</span>
-<span style="color: #3D00FF">#3D00FF</span>
-<span style="color: #005B97">#005B97</span>
-<span style="color: #1241B5">#1241B5</span>
+- <span style="color: #00CCE9">#00CCE9</span>
+- <span style="color: #0CA4ED">#0CA4ED</span>
+- <span style="color: #215EF5">#215EF5</span>
+- <span style="color: #302BFA">#302BFA</span>
+- <span style="color: #390CFE">#390CFE</span>
+- <span style="color: #3D00FF">#3D00FF</span>
+- <span style="color: #005B97">#005B97</span>
+- <span style="color: #1241B5">#1241B5</span>
 
 Tones:
-Offwhite color (example is text, not background) : <span style="background-color: #222423; color: #EEE">#EEEEEE </span>
-Offblack: <span style="color: #222423">#222423</span>
+- Offwhite color (example is text, not background) : <span style="background-color: #222423; color: #EEE">#EEEEEE </span>
+- Offblack: <span style="color: #222423">#222423</span>
 
 # FAQ
 #### How do I make a PR (pull request)? 
