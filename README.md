@@ -53,8 +53,10 @@ We're a welcoming community of developers of all skill levels who have a love or
 
 From CSS web animation to experimenting with HTML5 Canvas, code is art and a means of self-expression that can be translated into effective UI/UX and bring about unforgettable experiences and interaction to the web. We curate content/resources, hold CSS/SVG art (creative code) challenges, and inspire each other to become better Cascading Coders!
 
-👥  Join our Community: [Facebook Group](https://www.facebook.com/groups/1752972351391061/) <br>
-❤️ Like/Follow: [Twitter](https://twitter.com/cascadingcoders) [Facebook Page](https://www.facebook.com/CascadingCoders/)
+👥  Join our Community: <br>
+[Facebook Group](https://www.facebook.com/groups/1752972351391061/) <br>
+❤️ Like/Follow: <br>[Twitter](https://twitter.com/cascadingcoders) <br>
+[Facebook Page](https://www.facebook.com/CascadingCoders/)
 
 
 # ❓ FAQ
